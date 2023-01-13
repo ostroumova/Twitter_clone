@@ -7,15 +7,6 @@ $ npm install
 $ npm start
 ````
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+Analogue of Twitter, As user you can like, retweet, comment or delete the tweets. You can create the tweets yourself. 
+<img width="437" alt="Screenshot 2023-01-13 at 10 06 55" src="https://user-images.githubusercontent.com/46134711/212294195-4e20eb1b-a337-4ab3-bc56-2b94fdbdd054.png">
+<img width="425" alt="Screenshot 2023-01-13 at 10 07 10" src="https://user-images.githubusercontent.com/46134711/212294212-6fbf51de-ec55-4653-badb-d04be9df4515.png">
